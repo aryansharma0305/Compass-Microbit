@@ -38,7 +38,7 @@ make clean
 - Add **tilt compensation** for more precise readings.
 - Implement **Bluetooth connectivity** to display data on a phone.
 
+![Demo](demo.gif)
 
-[Watch Demo Video](1000079911.mp4)
 
 
