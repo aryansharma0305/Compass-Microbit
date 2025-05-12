@@ -39,7 +39,6 @@ make clean
 - Implement **Bluetooth connectivity** to display data on a phone.
 
 
+[Watch Demo Video](1000079911.mp4)
 
-<video width="600" controls>
-  <source src="1000079911.mp4" type="video/mp4">
-</video>
+
